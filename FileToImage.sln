@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28010.2041
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileToImage", "FileToImage\FileToImage.csproj", "{2CB709F1-A68A-4264-8B7E-8FAB025F0354}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestFileToImg", "TestFileToImg\TestFileToImg.csproj", "{7E909AF9-7B91-4D9A-85A9-310DA09675DA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{2CB709F1-A68A-4264-8B7E-8FAB025F0354}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2CB709F1-A68A-4264-8B7E-8FAB025F0354}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2CB709F1-A68A-4264-8B7E-8FAB025F0354}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E909AF9-7B91-4D9A-85A9-310DA09675DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E909AF9-7B91-4D9A-85A9-310DA09675DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E909AF9-7B91-4D9A-85A9-310DA09675DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E909AF9-7B91-4D9A-85A9-310DA09675DA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
